@@ -50,13 +50,9 @@ function uploadBudget() {
         if (serverResponse.message) {
           throw new Error(serverResponse);
         }
-
-        const transaction = db.transaction(['newBudget'], 'readwrite');
-        const budgetObjectStore = transaction.objectStore('newBudget');
-        // clear all items in your store
         var success = transactionObjectStore.clear();
           success.onsuccess = function(event){
-              alert('All indexed transactions has been submitted!');
+            alert('All indexed transactions has been submitted!');
           }
           window.location.reload()
       })
