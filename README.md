@@ -21,29 +21,32 @@
 
   ## Installation
   
-  * Packages for install will require express, mongoose, and mongoDB.
+  * Packages for install will require express, mongoose, morgan, compression, and mongoDB.
 
     https://www.mongodb.com/try/download/community
   
     https://www.npmjs.com/package/mongoose
   
     https://www.npmjs.com/package/express
+    
+    https://www.npmjs.com/package/morgan
+    
+    https://www.npmjs.com/package/compression
   
 
   ## Tests
   
-  * In the command line type "npm start" to get the Mongoose server started.
+  * In the command line type "npm start" to get the server started.
   
-  ![Screenshot 2022-04-27 112752](https://user-images.githubusercontent.com/94988620/165555045-b637a52f-b235-4d28-a960-649d65d32edb.png)
+  * Open a page to localhost:3001 and start adding or subtracting transactions from your total.
 
+  ![image](https://user-images.githubusercontent.com/94988620/167310566-1a616700-e9b4-4e47-9586-79496d7acc0d.png)
   
-  * Run with Insomnia or Postman and test all routes for Users, Friends, Thoughts, and Reactions.
+  * Open your console log and make sure the service worker is responding. Also check your terminal where you started your server.
+
+  ![image](https://user-images.githubusercontent.com/94988620/167310615-b89af395-23f5-4d5c-bc51-ecf8f7818a9b.png)
   
-  ![Screenshot 2022-04-27 113720](https://user-images.githubusercontent.com/94988620/165556728-9dfb1df8-722e-42e5-852d-a77bf5f9a9e4.png)
-  
-  ![Screenshot 2022-04-27 113813](https://user-images.githubusercontent.com/94988620/165556915-ac05f04d-7240-4371-9ae5-1d0ab6779ac8.png)
-  
-  ![Screenshot 2022-04-27 113906](https://user-images.githubusercontent.com/94988620/165557130-fff70691-83c2-4cd0-bcc8-c67949eff4e9.png)
+  ![image](https://user-images.githubusercontent.com/94988620/167310629-3c2453e1-69c5-4d88-aca1-5a09e1b55107.png)
 
 
   ## User Story
