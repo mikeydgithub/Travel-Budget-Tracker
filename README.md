@@ -1,17 +1,23 @@
 
   ## Table of Contents
   1. [Title](#Title)
-  2. [Usage](#Usage)
-  3. [Installtion](#Installtion)
-  5. [Contribution](#Contribution)
+  2. [User Story](#Story)
+  3. [Usage](#Usage)
+  4. [Installtion](#Installtion)
   6. [Tests](#Test)
-  7. [User Story](#Story)
+  7. [Contribution](#Contribution)
   8. [Description](#Description)
   9. [Walk through Video](#Video)
 
   ## Title
 
   Travel Budget Tracker
+  
+  ## User Story
+
+  AS AN avid traveler
+  I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
+  SO THAT my account balance is accurate when I am traveling 
   
   ## Usage
 
@@ -32,6 +38,10 @@
     https://www.npmjs.com/package/morgan
     
     https://www.npmjs.com/package/compression
+    
+  ## Description
+
+  Given a social network API
   
 
   ## Tests
@@ -50,28 +60,9 @@
   
   ![image](https://user-images.githubusercontent.com/94988620/167310629-3c2453e1-69c5-4d88-aca1-5a09e1b55107.png)
 
-
-  ## User Story
-
-  AS AN avid traveler
-  I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
-  SO THAT my account balance is accurate when I am traveling 
-
   ## Description
 
   Given a social network API
-  
-  * When you enter the command to invoke the application,
-  * Then your server is started and the Mongoose models are synced to the MongoDB database.
-
-  * When you open API GET routes in Insomnia for users and thoughts,
-  * Then the data for each of these routes is displayed in a formatted JSON
-
-  * When you test API POST, PUT, and DELETE routes in Insomnia,
-  * Then you are able to successfully create, update, and delete users and thoughts in your database
-
-  * When you test API POST and DELETE routes in Insomnia,
-  * Then you are able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 
   ## GitHub Username
     
