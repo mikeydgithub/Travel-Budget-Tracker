@@ -4,10 +4,10 @@
   2. [User Story](#Story)
   3. [Usage](#Usage)
   4. [Installtion](#Installtion)
-  6. [Tests](#Test)
-  7. [Contribution](#Contribution)
-  8. [Description](#Description)
-  9. [Walk through Video](#Video)
+  6. [Description](#Description)
+  7. [Tests](#Test)
+  8. [Contribution](#Contribution)
+
 
   ## Title
 
@@ -81,7 +81,3 @@
   ## Email and Contact Information
      
   ampgzo2@gmail.com
-
-  ## Walk through Video
-  https://drive.google.com/file/d/1OFj_6gz1qiyXBNLN2nibw8t_0xptBIkK/view
-  
