@@ -13,6 +13,10 @@
 
   Travel Budget Tracker
   
+  https://travel-budget-trackerv1.herokuapp.com/
+  
+  https://cloud.mongodb.com/v2/627812190a7dfe3a48141dba#clusters/detail/Cluster0
+  
   ## User Story
 
   AS AN avid traveler
@@ -43,15 +47,15 @@
     
   ## Description
   
-  GIVEN a budget tracker without an internet connection
+  GIVEN a budget tracker without an internet connection.
   
-  WHEN the user inputs an expense or deposit
+  WHEN the user inputs an expense or deposit.
   
-  THEN they will receive a notification that they have added an expense or deposit
+  THEN they will receive a notification that they have added an expense or deposit.
   
-  WHEN the user reestablishes an internet connection
+  WHEN the user reestablishes an internet connection.
   
-  THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
+  THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated.
 
   ## Tests
   
