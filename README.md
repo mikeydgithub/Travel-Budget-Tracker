@@ -42,9 +42,11 @@
 
   ![image](https://user-images.githubusercontent.com/94988620/167310566-1a616700-e9b4-4e47-9586-79496d7acc0d.png)
   
-  * Open your console log and make sure the service worker is responding. Also check your terminal where you started your server.
+  * Open your console log and make sure the service worker is responding. 
 
   ![image](https://user-images.githubusercontent.com/94988620/167310615-b89af395-23f5-4d5c-bc51-ecf8f7818a9b.png)
+  
+  * Also check your terminal where you started your server.
   
   ![image](https://user-images.githubusercontent.com/94988620/167310629-3c2453e1-69c5-4d88-aca1-5a09e1b55107.png)
 
